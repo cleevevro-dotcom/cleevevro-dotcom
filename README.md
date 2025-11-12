@@ -4,7 +4,9 @@
 
 ### ❤️ Hobbies
 🎮 Game Development — | Unity | Blender | Photoshop |
+
 💻 Web Development  — | HTML | CSS | JS | PHP | MySQL | WAMP |
+
 🌀 Programming      — | C# | Java | PHP |
 
 ### 👋 About Me
