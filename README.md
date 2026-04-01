@@ -3,7 +3,7 @@
 🎓 **BS Information Technology 3rd year Student** 
 
 ### ❤️ Hobbies
-🎮 Game Development — | Unity | Blender | Photoshop |
+🎮 Game Development — | Unity | Blender | Gimp |
 
 💻 Web Development  — | HTML | CSS | JS | PHP | MySQL | WAMP |
 
