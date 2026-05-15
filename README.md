@@ -18,9 +18,10 @@ Hi! I’ve always dreamed of bringing my ideas to life, and now I’m on my way 
 
 ### 🌱 Currently Learning 
 - Unity scripting & shaders
-- Procedural generation for games 
-- PHP OOP and Laravel framework
+- Procedural generation for games
+- UI/UX on unity
+- OOP concepts
 
 ### 🌱 Goal
-= Unity / OstriRun : Endless running loop 
+= Unity / OstriRun : Endless running loop [Completed(didn't Continue)]
 
