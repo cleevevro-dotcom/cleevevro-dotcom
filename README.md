@@ -15,15 +15,16 @@ Hi! I’ve always dreamed of bringing my ideas to life, and now I’m on my way 
 ## 🎮 Game Projects
 
 ### [Hungii Snikk](https://play.unity.com/en/games/eaf39b2c-cde8-4ae8-8f60-0f80a21b89be/hungii-snikk-testgame1)
+
 **Technologies:** C#, Unity
   **Systems & Gameplay**
   - Player movement and controls
   - Apple collection mechanics
   - Player growth mechanic
-  **3D Art & Animation**
   - Low-poly 3D modeling
 
 ### [OstriRun](https://play.unity.com/en/games/51382454-a56b-4218-93ee-6d78decc87ea/ostrirun)
+
 **Technologies:** C#, Unity
   **Systems & Gameplay**
   - Procedural level generation
